@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49985341/137677716-c3e40a8e-b206-4955-82f4-882b68725882.png" width=95%, height=95%>
+<img src="https://user-images.githubusercontent.com/49985341/137677716-c3e40a8e-b206-4955-82f4-882b68725882.png">
 
 ### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
 ###### Software and hobbiest electrical engineer doing some small projects. <br> Not currently employed. (Age: 14)
