@@ -24,5 +24,3 @@
   
   [![Sarrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarr-io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-<a href="https://www.patreon.com/bePatron?u=43019277" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
