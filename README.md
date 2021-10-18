@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/49985341/137677544-7e7ebe10-dc39-44c7-861c-cc1073c50d2d.png)
+<img src="https://user-images.githubusercontent.com/49985341/137677716-c3e40a8e-b206-4955-82f4-882b68725882.png" width=85%, height=85%>
 
 ### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
 ###### Software and hobbiest electrical engineer doing some small projects. <br> Not currently employed. (Age: 14)
