@@ -6,7 +6,7 @@
 
 ## 🥭 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarr-io&repo=cylrn&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarr-io&repo=cylrn&theme=dark)](https://github.com/sarr-io/cylrn) 
 
 <details>
 <summary>
