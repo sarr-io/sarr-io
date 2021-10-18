@@ -24,3 +24,5 @@
   
   [![Sarrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarr-io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W23Q8TJ)
