@@ -1,13 +1,6 @@
-#### Hey, I'm Sarrio. 🤗
+<kbd>
 
-###### I'm a software and hobbiest electrical engineer doing some small projects. Not currently employed. (Age: 14)
+### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
+###### Software and hobbiest electrical engineer doing some small projects. <br> Not currently employed. (Age: 14)
+</kbd>
 
-## Projects I'm proud of:
-
-<div class="github-card" data-github="sarr-io/cylrn" data-width="400" data-height="" data-theme="default">
-
-</div>
-
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js">
-
-</script>
