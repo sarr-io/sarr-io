@@ -24,3 +24,6 @@
   
   [![Sarrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarr-io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+<a href="https://patreon.com/sarrio">
+  <img src="https://user-images.githubusercontent.com/49985341/137796738-217f6fc6-bcba-4d67-924e-63cc9e292a17.png">
+</a>
