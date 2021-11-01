@@ -5,7 +5,10 @@
 
 ## 🍧 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarr-io&repo=cylrn&theme=dark)](https://github.com/sarr-io/cylrn) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarr-io&repo=cylrn&theme=dark)](https://github.com/sarr-io/cylrn)
+
+### Project Timeline
+<img src="https://user-images.githubusercontent.com/49985341/139605857-542fae9d-f9f0-4320-bf29-4561d5d5bf73.png" width=75% height=75%>
 
 <details>
 <summary>
