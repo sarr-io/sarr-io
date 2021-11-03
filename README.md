@@ -3,8 +3,8 @@
 ### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
 ###### Software and hobbyist electrical engineer doing some small projects. <br> Not currently employed. (Age: 14) <br> https://linktr.ee/sarrio
 
-### Status:
-###### Working on large update for srcpool.
+### Status: 
+###### Working on large update for srcpool. 
 
 ## 🍧 Featured Project
 
