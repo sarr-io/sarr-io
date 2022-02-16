@@ -4,7 +4,7 @@
 ###### Software and hobbyist electrical engineer working on some small projects. <br> Not currently employed. <br> https://linktr.ee/sarrio
 
 ### Status: 
-###### Working on large update for srcpool. 
+###### On a break, be back soon (April 2022)
 
 ## 🍧 Featured Project
 
