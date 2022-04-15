@@ -4,7 +4,7 @@
 ###### Software and hobbyist electrical engineer working on some small projects. <br> Not currently employed. <br> https://sarr-io.github.io/portfolio/
 
 ### Status: 
-###### yo, working on some spatial computing and stuff! updates will be slower because i'm pretty busy atm.
+###### yo, working on some spatial computing and stuff! </br> updates will be slower because i'm pretty busy atm.
 
 ## 🍧 Featured Project
 
