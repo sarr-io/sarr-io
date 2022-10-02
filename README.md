@@ -1,5 +1,3 @@
-![header](https://user-images.githubusercontent.com/49985341/137678044-0de3277d-977b-451b-85fa-e7676ae983de.png)
-
 ### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
 ###### Software and hobbyist electrical engineer working on some small projects. <br> Not currently employed. <br> https://sarr-io.github.io/portfolio/
 
