@@ -1,10 +1,10 @@
-### Ahoy! I'm sarrio. <img src="https://c.tenor.com/AaoMtqSNqwsAAAAi/cringe.gif" width=20 height=20>
-###### Software and hobbyist electrical engineer working on some small projects. <br> Not currently employed. <br> https://sarr-io.github.io/portfolio/
+### sarrio <img src="https://i.imgur.com/7hHftuR.gif" width=50 height=50>
+###### Software and hardware engineer, artist, exploring worlds. <br> Not currently employed. <br> https://sarr-io.github.io/portfolio/
 
 ### Status: 
-###### the project has started
+###### planning a world-scale project
 
-## 🍧 Featured Project
+## ⭐ Featured Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarr-io&repo=cylrn&theme=dark)](https://github.com/sarr-io/cylrn)
 
