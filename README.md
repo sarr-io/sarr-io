@@ -2,6 +2,4 @@
 ###### Software and hardware engineer, artist, exploring worlds. <br> https://sarr-io.github.io/portfolio/
 
 ### Status: 
-###### planning a world-scale project
-
-## ⭐ Featured Project
+###### planning a project (about 2y now)
