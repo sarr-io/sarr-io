@@ -2,4 +2,4 @@
 ###### Software and hardware engineer, artist, exploring worlds. <br> https://sarr-io.github.io/portfolio/
 
 ### Status: 
-###### Looking for an internship (hello internship managers)!
+###### ...
